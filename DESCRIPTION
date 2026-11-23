@@ -1,6 +1,6 @@
 Package: tidyexposomics
 Title: Integrated Exposure-Omics Analysis Powered by Tidy Principles
-Version: 1.1.3
+Version: 1.2.0
 Authors@R: 
     c(
     person(given = "Jason",
